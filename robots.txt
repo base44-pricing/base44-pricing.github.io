@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://base44-pricing.github.io/sitemap.xml
